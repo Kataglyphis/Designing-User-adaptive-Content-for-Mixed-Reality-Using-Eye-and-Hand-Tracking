@@ -1,0 +1,6 @@
+[submodule "yolov5"]
+	path = yolov5
+	url = https://github.com/ultralytics/yolov5.git
+[submodule "node-dss"]
+	path = node-dss
+	url = https://github.com/bengreenier/node-dss.git
