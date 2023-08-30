@@ -27,6 +27,9 @@
 <!-- [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=BX9AVVES2P9LN) -->
 <!-- [![Twitter](https://img.shields.io/twitter/follow/Cataglyphis_?style=social)](https://twitter.com/Cataglyphis_) -->
 
+> **_NOTE:_** Due to Git LFS storage limitations on github all model .onnx files + weights are stored separately. In order to run the project you might have to manually copy them into the folder 
+"AIServer/AIServer/Assets/" (follow this link: https://drive.google.com/drive/folders/1lC2jHfe08Jcu86ueu86ThJXM0lPFQAZU?usp=sharing)<br />
+
 <div align="center">
 <p align="center">
   <a href="#key-features">Key Features</a> •

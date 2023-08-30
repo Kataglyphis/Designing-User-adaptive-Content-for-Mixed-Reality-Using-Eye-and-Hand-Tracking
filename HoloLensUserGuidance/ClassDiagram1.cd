@@ -1,0 +1,589 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.ColorTap" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="24" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAEgAAQAAAACAAAAAAAAgQAACpAAEA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\DemoBasicSetup\Scripts\ColorTap.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.FollowEyeGazeGazeProvider" Collapsed="true">
+    <Position X="15.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\DemoBasicSetup\Scripts\FollowEyeGazeGazeProvider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.PanZoomBase" Collapsed="true">
+    <Position X="4" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EYywIMJEijBtSRBUhwc1KAgCSwDKkICCCoToKAsFAGg=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\DemoScrollPanZoom\Scripts\BaseClasses\PanZoomBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.PanZoomBaseRectTransf" Collapsed="true">
+    <Position X="1.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAABgAQAAAwgCAAAAAAAAEACAAABgAAAAAAA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\DemoScrollPanZoom\Scripts\BaseClasses\PanZoomBaseRectTransf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.PanZoomBaseTexture" Collapsed="true">
+    <Position X="6.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAABIoAABAAQAAAggABAAAAAAAEACAAoQgAAAAAAA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\DemoScrollPanZoom\Scripts\BaseClasses\PanZoomBaseTexture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.PanZoomRectTransf" Collapsed="true">
+    <Position X="0.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAGCgAAABBAAABBAAIBAAAIABCAAAAAAIAAE=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\DemoScrollPanZoom\Scripts\PanZoomRectTransf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.PanZoomTexture" Collapsed="true">
+    <Position X="5.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAGAgAAAABAAABBAAIBAAAIAJCAAAAAAIAAE=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\DemoScrollPanZoom\Scripts\PanZoomTexture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.ScrollRectTransf" Collapsed="true">
+    <Position X="3" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAEBACCgAAEBAAEAABAAAAEAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\DemoScrollPanZoom\Scripts\ScrollRectTransf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.ScrollTexture" Collapsed="true">
+    <Position X="7.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAgAAEACAEAABAAAAEAAAEAAAAAAEAAAAA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\DemoScrollPanZoom\Scripts\ScrollTexture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.TargetMoveToCamera" Collapsed="true">
+    <Position X="18.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAEAACAAAQAAAQAAAAEAAAAAEQSAQIgAAAAAIIA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\DemoScrollPanZoom\Scripts\TargetMoveToCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.GrabReleaseDetector" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAABACAAAAAAAAgQAAAgAAEA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\DemoTargetPositioning\Scripts\GrabReleaseDetector.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.MoveObjByEyeGaze" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wBQB6EAQrDNEMAAgCewIEAgMCQHIQC0AL10RAEjCyCU=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\DemoTargetPositioning\Scripts\MoveObjByEyeGaze.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.SnapTo" Collapsed="true">
+    <Position X="20.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\DemoTargetPositioning\Scripts\SnapTo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.TransportToRespawnLocation" Collapsed="true">
+    <Position X="22.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAgAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\DemoTargetPositioning\Scripts\TransportToRespawnLocation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.TriggerZonePlaceObjsWithin" Collapsed="true">
+    <Position X="24" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAoAAAAAACAIAAgCAAAAAAJlIAAAAIAAQAAAAAAAAQA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\DemoTargetPositioning\Scripts\TriggerZonePlaceObjsWithin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.HitBehaviorDestroyOnSelect" Collapsed="true">
+    <Position X="18.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAICCAAAAABCAAAAEAAgBAAEAAACAAAAAEAIAA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\DemoTargetSelections\Scripts\HitBehaviorDestroyOnSelect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.RotateWithConstSpeedDir" Collapsed="true">
+    <Position X="18.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAgAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\DemoTargetSelections\Scripts\RotateWithConstSpeedDir.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.TargetGroupCreatorRadial" Collapsed="true">
+    <Position X="15.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAQACAICAAAABIAAQAAAAACABAAAAgAAAAABAABBQ=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\DemoTargetSelections\Scripts\TargetGroupCreatorRadial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.TargetGroupIterator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgSkAEEQgCAUgAgLAEiAEACACAACUAAAAgRAIAgIAAE=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\DemoTargetSelections\Scripts\TargetGroupIterator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.ToggleGameObject" Collapsed="true">
+    <Position X="20.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAgAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\DemoTargetSelections\Scripts\ToggleGameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.DrawOnTexture" Collapsed="true">
+    <Position X="17" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAxAAAACCAEAAAAQEAQEAEABBBFIAAEQAAAAABAIAQ=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\DemoVisualizer\Scripts\DrawOnTexture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.OnSelectVisualizerInputController" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="24" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAACAAAAAAAAgQAAAgIAEA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\DemoVisualizer\Scripts\OnSelectVisualizerInputController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.ParticleHeatmap" Collapsed="true">
+    <Position X="25.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAABAABAQCgAARCBQAAAAAAAAAAAJAAAAEAAAAgBAEA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\DemoVisualizer\Scripts\ParticleHeatmap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.ParticleHeatmapParticleData" Collapsed="true">
+    <Position X="15.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAIAAAgAAACACAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\DemoVisualizer\Scripts\ParticleHeatmapParticleData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.AudioFeedbackPlayer" Collapsed="true">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAACAAAAAAAAAAAAgAAAAAEAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\General\Scripts\AudioFeedbackPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.FollowEyeGaze" Collapsed="true">
+    <Position X="25.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\General\Scripts\FollowEyeGaze.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.SpeechVisualFeedback" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="22.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAgAAAAAAAAAAAAAgQgEAAAAAMAAAAAACAAAAA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\General\Scripts\Input\SpeechVisualFeedback.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.BlendOut" Collapsed="true">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUgQAAEgCAgEAAAIBAAQAgCgAAABQAQACAEAAIAQAA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\General\Scripts\TargetBehaviors\BlendOut.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.ChangeSize" Collapsed="true">
+    <Position X="22.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAIACAgAAIAIxAAQAgAQAAAAAAAAAAAIAAAAQA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\General\Scripts\TargetBehaviors\ChangeSize.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.FaceUser" Collapsed="true">
+    <Position X="24" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAgAEAAABBAQIgBAABAAAAAAAAgAAAQIAA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\General\Scripts\TargetBehaviors\FaceUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.KeepFacingCamera" Collapsed="true">
+    <Position X="22.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAEA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\General\Scripts\TargetBehaviors\KeepFacingCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.LoadAdditiveScene" Collapsed="true">
+    <Position X="25.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAkAAAAAAAAAACAAAQAAAgAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\General\Scripts\TargetBehaviors\LoadAdditiveScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.MoveWithCamera" Collapsed="true">
+    <Position X="17" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\General\Scripts\TargetBehaviors\MoveWithCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.OnLoadStartScene" Collapsed="true">
+    <Position X="18.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACCAAAAAAAAACAAAAQAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\General\Scripts\TargetBehaviors\OnLoadStartScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.OnLookAtRotateByEyeGaze" Collapsed="true">
+    <Position X="20.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEgAAAAAAAAAABgAAAAIAwQAAAACAAACQAAA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\General\Scripts\TargetBehaviors\OnLookAtRotateByEyeGaze.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.DwellSelection" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EBQAABAAICIAAMQiABIDAgkAXUADAAAAQpRAAFygAAA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\General\Scripts\Targeting\DwellSelection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.TargetEventArgs" Collapsed="true">
+    <Position X="25.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\General\Scripts\Targeting\TargetEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.ChangeRenderMode" Collapsed="true">
+    <Position X="20.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\General\Scripts\Utils\ChangeRenderMode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.DoNotRender" Collapsed="true">
+    <Position X="15.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\General\Scripts\Utils\DoNotRender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.EyeCalibrationChecker" Collapsed="true">
+    <Position X="20.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAACAAAAAAIAAAAAAACAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\General\Scripts\Utils\EyeCalibrationChecker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.KeepThisAlive" Collapsed="true">
+    <Position X="24" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\General\Scripts\Utils\KeepThisAlive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.StatusText" Collapsed="true">
+    <Position X="24" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAEAAAAAAgAAAAAQAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\General\Scripts\Utils\StatusText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.EyeTrackingDemoUtils" Collapsed="true">
+    <Position X="22.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAEQAAAAAAAAIAASAYAAAAAAQAAAA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\General\Scripts\Utils\Utils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.Logging.AsyncHelpers" Collapsed="true">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\DemoVisualizer\Scripts\AsyncHelpers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.Logging.BasicInputLogger" Collapsed="true">
+    <Position X="10.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAhACAAAIAAQAAAAFAAAAQIQABQAQAAARBAAAAAAEg=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\DemoVisualizer\Scripts\BasicInputLogger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.Logging.CustomInputLogger" Collapsed="true">
+    <Position X="10.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAkAAAQAAIAAAgAAAAAAAAgAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\DemoVisualizer\Scripts\CustomInputLogger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.Logging.InputPointerVisualizer" Collapsed="true">
+    <Position X="20.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQApBAIgGAJQABMACAoAQjoINIBIiEACSgEABAAIAA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\DemoVisualizer\Scripts\InputPointerVisualizer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.Logging.LogStructure" Collapsed="true">
+    <Position X="6.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\DemoVisualizer\Scripts\LogStructure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.Logging.LogStructureEyeGaze" Collapsed="true">
+    <Position X="6.5" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAEAAAAAAAAAAgAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\DemoVisualizer\Scripts\LogStructureEyeGaze.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.Logging.UserInputPlayback" Collapsed="true">
+    <Position X="25.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACyhgDCEACCAChMSYCgYCAYEBAwAoEEAghAAACBAAAE=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\DemoVisualizer\Scripts\UserInputPlayback.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.Logging.UserInputRecorder" Collapsed="true">
+    <Position X="10.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAACAAAAIAIAGAACgAAQAhAAABASAAQAAAAAAA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\DemoVisualizer\Scripts\UserInputRecorder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.Logging.UserInputRecorderFeedback" Collapsed="true">
+    <Position X="15.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAgAAARQAAAAAAAAhAAEAAQAFIAABCBgAAAQBA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\DemoVisualizer\Scripts\UserInputRecorderFeedback.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.Logging.UserInputRecorderUIController" Collapsed="true">
+    <Position X="18.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACgQAAAEAgAABBAgAAAQAEACAAAAgAAAQAE=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\DemoVisualizer\Scripts\UserInputRecorderUIController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.Targeting.OnLookAtShowHoverFeedback" Collapsed="true">
+    <Position X="22.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QiQJQQBAACESCAAIkIAAAAAABIABAKACEgqAQEAAIIk=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\General\Scripts\TargetBehaviors\OnLookAtShowHoverFeedback.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HoloLensUserGuidance.EyeTracking.Logging.BasicInputLogger" Collapsed="true">
+    <Position X="10.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAhACAAAIAAQAAAIFAAAAQIQABQAQAAARBAAAAAAEg=</HashCode>
+      <FileName>Assets\Scripts\BasicInputLogger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HoloLensUserGuidance.EyeTracking.Logging.CustomInputLogger" Collapsed="true">
+    <Position X="10.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAkAAAQAAIAAAgAAAAAAAAgAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\CustomInputLogger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HoloLensUserGuidance.EyeTracking.Logging.LogStructure" Collapsed="true">
+    <Position X="3.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAgIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\LogStructure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HoloLensUserGuidance.EyeTracking.Logging.LogStructureEyeGaze" Collapsed="true">
+    <Position X="3.5" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECAAAAAAAIAwIRBAAAAAAAQACAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\LogStructureEyeGaze.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HoloLensUserGuidance.EyeTracking.Logging.UserInputRecorder" Collapsed="true">
+    <Position X="10.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAACAAAAIAIIGAACgAAQAhAAABASAAQAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\UserInputRecorder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HoloLensUserGuidance.EyeTracking.Logging.UserInputRecorderFeedback" Collapsed="true">
+    <Position X="17" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAgAAARQAAAAAAAAhAAEAAQAFIAABCBgAAAQBA=</HashCode>
+      <FileName>Assets\Scripts\UserInputRecorderFeedback.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HoloLensUserGuidance.EyeTracking.Logging.UserInputRecorderUIController" Collapsed="true">
+    <Position X="20.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACgQAAAEAgAABBAgAAAQAEACAAAAgAAAQAE=</HashCode>
+      <FileName>Assets\Scripts\UserInputRecorderUIController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Scripts.Data.CSVFileHelper" Collapsed="true">
+    <Position X="25.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAAAAAgAAAAEAAAAAQ=</HashCode>
+      <FileName>Assets\Scripts\CSVFileHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Scripts.Data.DetectionResult" Collapsed="true">
+    <Position X="0.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAABAABAAAAAAAAAAAAAAABAAAAAAEAAA=</HashCode>
+      <FileName>Assets\Scripts\Data\DetectionResult.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Assets.Scripts.Data.DetectionResultCSVDescription" Collapsed="true">
+    <Position X="12.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Data\DetectionResultCSVDescription.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Scripts.Data.EyeData" Collapsed="true">
+    <Position X="3" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAIAAAAAAAAAAAAAAAAEAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Data\EyeData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Scripts.Data.HandData" Collapsed="true">
+    <Position X="5.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAABAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Data\HandData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Scripts.Data.HeadData" Collapsed="true">
+    <Position X="7.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAIAAAAAAAAAAAAABAAEAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Data\HeadData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Scripts.Data.InstanceSegmentationResult" Collapsed="true">
+    <Position X="0.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAABAAAAAAABAAABAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Data\InstanceSegmentationResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Scripts.Data.InstanceSegmentationResultCSVDescription" Collapsed="true">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Data\InstanceSegmentationResultCSVDescription.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Scripts.Data.NNDataCluster&lt;T&gt;" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABQFAAhAAAAAAAAAAAAAAAAABAAAAAAAgAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Data\NNDataCluster.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Assets.Scripts.Data.ReadOnlyDataCluster" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIEBAhAAAAAAAAAAAAAAAAADAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Data\ReadOnlyDataCluster.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Assets.Scripts.Data.TransformData" Collapsed="true">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIABAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Data\TransformData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Scripts.Data.UserDataCluster" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAEAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Data\UserDataCluster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Scripts.Data.Samples.UserTrackingSamplePoint" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEABgAAAAIAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Data\Samples\UserTrackingSamplePoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Scripts.Data.Samples.UserTrackingSamplePoint1D" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Data\Samples\UserTrackingSamplePoint1D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Scripts.Data.Samples.UserTrackingSamplePoint2D" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Data\Samples\UserTrackingSamplePoint2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Scripts.Data.Samples.UserTrackingSamplePoint3D" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Data\Samples\UserTrackingSamplePoint3D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Scripts.Data.Samples.UserTrackingSamplePoint4D" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Data\Samples\UserTrackingSamplePoint4D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Scripts.PersistenceHelper" Collapsed="true">
+    <Position X="17" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PersistenceHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Assets.Scripts.Data.IDataClusterMetaInformation" Collapsed="true">
+    <Position X="15.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Data\IDataClusterMetaInformation.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Assets.Scripts.IToCSVEntryConvertable" Collapsed="true">
+    <Position X="17" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\IToCSVEntryConvertable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Microsoft.MixedReality.Toolkit.Examples.Demos.EyeTracking.PlacementSurfaces" Collapsed="true">
+    <Position X="15.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Samples\Mixed Reality Toolkit Examples\2.8.3\Demos - EyeTracking\DemoTargetPositioning\Scripts\MoveObjByEyeGaze.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,31 @@
+Best parameters found:
+{'MLPClassifier__activation': 'relu', 'MLPClassifier__alpha': 0.0001, 'MLPClassifier__batch_size': 'auto', 'MLPClassifier__early_stopping': True, 'MLPClassifier__hidden_layer_sizes': (23, 14, 8), 'MLPClassifier__learning_rate': 'adaptive', 'MLPClassifier__learning_rate_init': 0.001, 'MLPClassifier__solver': 'adam'}
+CV results:
+{'mean_fit_time': array([91.24858284]), 'std_fit_time': array([9.953295]), 'mean_score_time': array([1.45729771]), 'std_score_time': array([0.25289042]), 'param_MLPClassifier__activation': masked_array(data=['relu'],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_MLPClassifier__alpha': masked_array(data=[0.0001],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_MLPClassifier__batch_size': masked_array(data=['auto'],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_MLPClassifier__early_stopping': masked_array(data=[True],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_MLPClassifier__hidden_layer_sizes': masked_array(data=[(23, 14, 8)],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_MLPClassifier__learning_rate': masked_array(data=['adaptive'],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_MLPClassifier__learning_rate_init': masked_array(data=[0.001],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_MLPClassifier__solver': masked_array(data=['adam'],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'params': [{'MLPClassifier__activation': 'relu', 'MLPClassifier__alpha': 0.0001, 'MLPClassifier__batch_size': 'auto', 'MLPClassifier__early_stopping': True, 'MLPClassifier__hidden_layer_sizes': (23, 14, 8), 'MLPClassifier__learning_rate': 'adaptive', 'MLPClassifier__learning_rate_init': 0.001, 'MLPClassifier__solver': 'adam'}], 'split0_test_balanced_accuracy': array([0.41151064]), 'split1_test_balanced_accuracy': array([0.80716465]), 'split2_test_balanced_accuracy': array([0.58634032]), 'split3_test_balanced_accuracy': array([0.60036583]), 'split4_test_balanced_accuracy': array([0.51534233]), 'mean_test_balanced_accuracy': array([0.58414475]), 'std_test_balanced_accuracy': array([0.13003241]), 'rank_test_balanced_accuracy': array([1]), 'split0_train_balanced_accuracy': array([0.99949789]), 'split1_train_balanced_accuracy': array([0.99992237]), 'split2_train_balanced_accuracy': array([0.99966002]), 'split3_train_balanced_accuracy': array([0.9997357]), 'split4_train_balanced_accuracy': array([1.]), 'mean_train_balanced_accuracy': array([0.9997632]), 'std_train_balanced_accuracy': array([0.00018067]), 'split0_test_f1_micro': array([0.38701741]), 'split1_test_f1_micro': array([0.83790689]), 'split2_test_f1_micro': array([0.64014005]), 'split3_test_f1_micro': array([0.63338696]), 'split4_test_f1_micro': array([0.4638024]), 'mean_test_f1_micro': array([0.59245074]), 'std_test_f1_micro': array([0.15681327]), 'rank_test_f1_micro': array([1]), 'split0_train_f1_micro': array([0.99957417]), 'split1_train_f1_micro': array([0.99992903]), 'split2_train_f1_micro': array([0.99969245]), 'split3_train_f1_micro': array([0.99976343]), 'split4_train_f1_micro': array([1.]), 'mean_train_f1_micro': array([0.99979182]), 'std_train_f1_micro': array([0.00015506]), 'split0_test_f1_macro': array([0.38765042]), 'split1_test_f1_macro': array([0.82651392]), 'split2_test_f1_macro': array([0.58550403]), 'split3_test_f1_macro': array([0.59273269]), 'split4_test_f1_macro': array([0.4906369]), 'mean_test_f1_macro': array([0.57660759]), 'std_test_f1_macro': array([0.14552533]), 'rank_test_f1_macro': array([1]), 'split0_train_f1_macro': array([0.99950945]), 'split1_train_f1_macro': array([0.99992686]), 'split2_train_f1_macro': array([0.99965787]), 'split3_train_f1_macro': array([0.99972831]), 'split4_train_f1_macro': array([1.]), 'mean_train_f1_macro': array([0.9997645]), 'std_train_f1_macro': array([0.00017864])}
+Model accuracy score: 0.5950
+Model F1 macro score: 0.6007
+Model F1 micro score: 0.5950

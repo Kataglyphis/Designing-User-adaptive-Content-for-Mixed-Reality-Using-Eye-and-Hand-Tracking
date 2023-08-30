@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['cap', 'frame', 'platform']
+
+roboflow:
+  workspace: truckdataset
+  project: truck-detection-plrxm
+  version: 15
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/truckdataset/truck-detection-plrxm/dataset/15

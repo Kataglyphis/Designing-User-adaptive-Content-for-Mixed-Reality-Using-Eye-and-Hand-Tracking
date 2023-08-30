@@ -1,0 +1,12 @@
+{
+  "Description": [
+    "Which user has HoloLens",
+    "f.e. which intention is tracked",
+    "duration of sampling"
+  ],
+  "Labels": [
+    "UserId",
+    "SessionType",
+    "dt in ms"
+  ]
+}
